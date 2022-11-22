@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,RTV_HD
-http://bdiptv.net:8282/RTV/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUN_BANGLA_HD
 http://bdiptv.net:8282/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV_HD
@@ -32,7 +32,7 @@ http://bdiptv.net:8282/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKUSHEY_TV_HD
 http://bdiptv.net:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV_HD
-http://bdiptv.net:8282/Ntv/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SATV_HD
 http://bdiptv.net:8282/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIAN_TV_HD
