@@ -139,6 +139,8 @@ http://15.1.1.34:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR_SPORTS_HD
 http://15.1.1.34:8282/en3-34/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_SIX_HD
+http://15.1.1.10:8282/sony-six-hd/tracks-v1a1/mono.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV",JAGO_BTV WORLD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
