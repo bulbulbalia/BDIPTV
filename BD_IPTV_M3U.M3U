@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,BTV_WORlD_HD
+http://15.1.1.38:8282/btv-world/tracks-v1a1/mono.m3u8
+#EXINF:-1,BTV_HD
+http://15.1.1.10:8282/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV_HD
 http://15.1.1.34:8282/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUN_BANGLA_HD 
@@ -54,6 +58,8 @@ http://15.1.1.34:8282/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
 http://15.1.1.34:8282/nagorik-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ANONDO_TV_HD
+EXTINF:-1,GLOBAL_HD
+http://15.1.1.34:8282/GLOBLA-TV/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/anandotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS_HD
 http://15.1.1.34:8282/star-plus/tracks-v1a1/mono.m3u8
