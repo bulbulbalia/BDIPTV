@@ -143,6 +143,10 @@ http://15.1.1.34:8282/sangeet-bangla/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_MUSIC_HD
 http://15.1.1.34:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BINDASS_HD
+http://15.1.1.34:8282/bindass/tracks-v1a1/mono.m3u8
+EXTINF:-1,MASTI_MUSIC_HD
+http://15.1.1.10:8282/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR_SPORTS_HD
 http://15.1.1.34:8282/en3-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_SIX_HD
