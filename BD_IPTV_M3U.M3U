@@ -45,7 +45,7 @@ http://bdiptv.net:8282/AsianTV/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/bangla-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLAVISION_HD
 http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA_CINEMA
+#EXTINF:-1, ASMA"S_FAVOURITE_CHANNEL_ZEE_BANGLA_CINEMA
 http://15.1.1.10:8282/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BOISHAKHI_TV_HD
 http://15.1.1.34:8282/Boishakhi/tracks-v1a1/mono.m3u8
