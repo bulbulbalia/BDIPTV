@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,BTV_WORlD_HD
 http://15.1.1.38:8282/btv-world/tracks-v1a1/mono.m3u8
-#EXINF:-1,BTV_HD
+#EXTINF:-1,BTV_HD
 http://15.1.1.10:8282/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC_TEST
 ttps://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
