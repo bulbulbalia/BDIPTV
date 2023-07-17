@@ -176,7 +176,7 @@ http://15.1.1.34:8282/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/andpictures/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MOVIES_NOW_HD
 http://15.1.1.34:8282/movies-now/tracks-v1a1/mono.m3u8
-#EXIINF:-1,DUBAI_ONE_HD
+#EXTINF:-1,DUBAI_ONE_HD
 http://15.1.1.38:8282/dubai-one/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_MOVIES_HD
 http://15.1.1.34:8282/star-movies-hd/tracks-v1a1/mono.m3u8
