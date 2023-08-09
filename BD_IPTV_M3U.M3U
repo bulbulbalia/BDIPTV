@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,BDIX_TV_247
+#EXTINF:-1,COLORS_BANGLA_HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=3110800.m3u8
+#EXTINF:-1,COLORS_HINDI_HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=1173600.m3u8
 #EXTINF: -1 group-title="BASNET_BD", BTV_WORlD_HD
 http://tv.basnetbd.com:8080/roarzone/84/tracks-v1a1/mono.m3u8
