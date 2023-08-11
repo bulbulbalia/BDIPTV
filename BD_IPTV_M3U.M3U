@@ -7,6 +7,8 @@ http://bokasoka.net:8080/hls/starjalsha.m3u8
 http://bokasoka.net:8080/hls/zeebanglahd.m3u8
 #EXTINF: -1 group-title="BASNET_BD", COLORS_BANGLA_HD
 http://bokasoka.net:8080/hls/colorsbangla.m3u8
+#EXTINF: -1 group-title="BASNET_BD", SANGEET_BANGLA_HD
+http://bokasoka.net:8080/hls/sangeetbangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV", JAGO_BTV CTG [BD]
 ttps://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
