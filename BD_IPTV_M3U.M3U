@@ -1,16 +1,37 @@
 #EXTM3U
-#EXTINF: -1 group-title="BASNET_BD", Hes_ALL-THAT
-http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/Dual%20Audio/Hes%20All%20That%20(2021)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-#EXTINF: -1 group-title="BASNET_BD", SUN_BANGLA_HD
-http://bokasoka.net:8080/hls/sunbangla.m3u8
-#EXTINF: -1 group-title="BASNET_BD", STAR_JALSHA_HD
-http://bokasoka.net:8080/hls/starjalsha.m3u8
-#EXTINF: -1 group-title="BASNET_BD", ZEE_BANGLA_HD
+#EXTM3U
+#EXTINF:-1,STAR_PLUS_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE_TV_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,COLORS_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR_BHAROT_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
+#EXTINF:-1,ZEE_CINEMA_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR_MOVIES_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_MAX_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY_TV_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR_GOLD_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR_JALSHA_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE_BANGLA_HD
 http://bokasoka.net:8080/hls/zeebanglahd.m3u8
-#EXTINF: -1 group-title="BASNET_BD", COLORS_BANGLA_HD
+#EXTINF:-1,COLORS_BANGLA_HD
 http://bokasoka.net:8080/hls/colorsbangla.m3u8
-#EXTINF: -1 group-title="BASNET_BD", SANGEET_BANGLA_HD
-http://bokasoka.net:8080/hls/sangeetbangla.m3u8
+#EXTINF:-1,JALSHA_MOVIES_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,COLORS_BANGLA_CINEMA_HD
+http://bokasoka.net:8080/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,AND_PICTURES_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MOVIES_NOW_HD
+http://bokasoka.net:8080/hls/movies-now.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV", JAGO_BTV CTG [BD]
 ttps://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
