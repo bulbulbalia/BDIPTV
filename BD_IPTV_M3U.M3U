@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1,STAR_PLUS_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_TV_HD
@@ -21,7 +20,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
-http://bokasoka.net:8080/hls/zeebanglahd.m3u8
+http://172.21.22.2:8082/zeebanglahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
 http://bokasoka.net:8080/hls/colorsbangla.m3u8
 #EXTINF:-1,JALSHA_MOVIES_HD
