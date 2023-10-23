@@ -233,14 +233,14 @@ http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="BASNET_BD", SONY_SIX_HD
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV", JAGO_BTV WORLD [BD]
-http://172.21.22.2:8082/Btv-World/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV", JAGO_BTV
-http://172.21.22.2:8082/Btv-Hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKHON_HD
 http://172.21.22.2:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GLOBAL_HD
 http://172.21.22.2:8082/Global_Tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV", JAGO_BTV WORLD [BD]
+http://172.21.22.2:8082/Btv-World/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV", JAGO_BTV
+http://172.21.22.2:8082/Btv-Hd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="JAGO BD IPTV", JAGO_ATN BANGLA [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="JAGO BD IPTV", JAGO_CHANNEL I HD [BD]
