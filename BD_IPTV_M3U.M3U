@@ -1,79 +1,137 @@
-#EXTM3U
-#EXTINF:-1,STAR_PLUS_HD
-http://172.21.22.2:8082/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_TV_HD
-http://172.21.22.2:8082/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_HD
-http://172.21.22.2:8082/colore-tv-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_BHAROT_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
-#EXTINF:-1,ZEE_CINEMA_HD
-http://172.21.22.2:8082/zeecinemahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_MOVIES_HD
-http://172.21.22.2:8082/starmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_MAX_HD
-http://172.21.22.2:8082/sony-maxhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TV_HD
-http://172.21.22.2:8082/sonyen/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_GOLD_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_JALSHA_HD
+#EXTM3U 
+#EXTINF: -1 tvg-id="1" tvg-chno="1" group-title="JAGO BD IPTV", SUNBANGLA_HD
+http://172.21.22.2:8082/sunbangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="JAGO BD IPTV", STAR_JALSHA_HD
 http://172.21.22.2:8082/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TRAVEL_XP_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", TRAVEL_XP_HD
 http://172.21.22.2:8082/travelxp/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", ZEE_BANGLA_HD
 http://172.21.22.2:8082/zeebanglahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA_CINEMA_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", ZEE_BANGLA_CINEMA_HD
 http://172.21.22.2:8082/9xm/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_BANGLA_HD
-http://172.21.22.2:8082/colorsbangla/tracks-v1a1/mono.m3u
-#EXTINF:-1,JALSHA_MOVIES_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", COLORS_BANGLA_HD
+http://172.21.22.2:8082/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="JAGO BD IPTV", JALSHA_MOVIES_HD
 http://172.21.22.2:8082/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_BANGLA_CINEMA_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", COLORS_BANGLA_CINEMA_HD
 http://172.21.22.2:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AND_PICTURES_HD
-http://172.21.22.2:8082/andpictures/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MOVIES_NOW_HD
-http://172.21.22.2:8082/movies-now/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_PIX_HD
-http://172.21.22.2:8082/sonypixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MN_PLUS_HD
-http://172.21.22.2:8082/mn-plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_PLUS_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_TV_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_BHAROT_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
-#EXTINF:-1,ZEE_CINEMA_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_MOVIES_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_MAX_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TV_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_GOLD_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR_JALSHA_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA_HD
-http://172.21.22.2:8082/zeebanglahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_BANGLA_HD
-http://bokasoka.net:8080/hls/colorsbangla.m3u8
-#EXTINF:-1,JALSHA_MOVIES_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", JALSHA_MOVIES_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_BANGLA_CINEMA_HD
-http://bokasoka.net:8080/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1,AND_PICTURES_HD
+#EXTINF: -1 group-title="JAGO BD IPTV", STAR_JALSHA_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="JAGO BD IPTV", ZEE_BANGLA_HD
+http://172.21.22.2:8082/zeebanglahd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="JAGO BD IPTV", NEXUS_HD
+http://172.21.22.2:8082/Nexus_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="JAGO BD IPTV", EKHON_HD
+http://172.21.22.2:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="JAGO BD IPTV", GLOBAL_HD
+http://172.21.22.2:8082/Global_Tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV", JAGO_BTV WORLD [BD]
+http://172.21.22.2:8082/Btv-World/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV", JAGO_BTV
+http://172.21.22.2:8082/Btv-Hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="JAGO BD IPTV", JAGO_ATN BANGLA [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="JAGO BD IPTV", JAGO_CHANNEL I HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="JAGO BD IPTV", JAGO_RTV HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="JAGO BD IPTV", JAGO_BOISHAKHI TV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="JAGO BD IPTV", JAGO_BANGLA VISION [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="JAGO BD IPTV", JAGO_MY TV HD [BD]
+http://172.21.22.2:8082/My_Tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="JAGO BD IPTV", JAGO_CHANNEL 9 HD [BD]
+http://172.21.22.2:8082/Channel_9_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="JAGO BD IPTV", JAGO_ASIAN TV HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="JAGO BD IPTV", JAGO_SA TV HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="JAGO BD IPTV", JAGO_BANGLA TV HD [BD]
+http://172.21.22.2:8082/Bangla_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="JAGO BD IPTV", JAGO_ATN NEWS [BD]
+http://172.21.22.2:8082/ATN_News_SD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="JAGO BD IPTV", JAGO_INDEPENDENT TV [BD]
+http://172.21.22.2:8082/Independent_TV_SD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="JAGO BD IPTV", JAGO_SOMOY TV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="JAGO BD IPTV", JAGO_CHANNEL 24 [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="JAGO BD IPTV", JAGO_JAMUNA TV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="JAGO BD IPTV", JAGO_NEWS 24 HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="JAGO BD IPTV", JAGO_DBC NEWS HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="JAGO BD IPTV", JAGO_BIJOY TV HD [BD]
+http://172.21.22.2:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="JAGO BD IPTV", JAGO_ANANDA TV HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV", JAGO_CHANNEL S [UK] [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="JAGO BD IPTV", JAGO_Movie Bangla TV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="JAGO BD IPTV", JAGO_Nan IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="JAGO BD IPTV", JAGO_NRB IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="JAGO BD IPTV", JAGO_ATN Islam [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JAGO BD IPTV", JAGO_GAAN BANGLA HD [BD]
+http://172.21.22.2:8082/Gaan-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="JAGO BD IPTV", JAGO_ATN Music [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_PLUS_HD
+http://172.21.22.2:8082/starplus/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", ZEE_TV_HD
+http://172.21.22.2:8082/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", COLORS_HD
+http://172.21.22.2:8082/colore-tv-hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_BHAROT_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", ZEE_CINEMA_HD
+http://172.21.22.2:8082/zeecinemahd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_MOVIES_HD
+http://172.21.22.2:8082/starmovies/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", SONY_MAX_HD
+http://172.21.22.2:8082/sony-maxhd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", SONY_TV_HD
+http://172.21.22.2:8082/sonyen/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_GOLD_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", AND_PICTURES_HD
+http://172.21.22.2:8082/andpictures/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", MOVIES_NOW_HD
+http://172.21.22.2:8082/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", SONY_PIX_HD
+http://172.21.22.2:8082/sonypixhd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", MN_PLUS_HD
+http://172.21.22.2:8082/mn-plus/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_PLUS_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", ZEE_TV_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", COLORS_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_BHAROT_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", ZEE_CINEMA_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_MOVIES_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", SONY_MAX_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", SONY_TV_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", STAR_GOLD_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", AND_PICTURES_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MOVIES_NOW_HD
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", MOVIES_NOW_HD
 http://bokasoka.net:8080/hls/movies-now.m3u8
-#EXTINF:-1,COLORS_BANGLA_HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=3110800.m3u8
-#EXTINF:-1,COLORS_HINDI_HD
+#EXTINF: -1 group-title="HINDI_CHANNEL_HD", COLORS_HINDI_HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=1173600.m3u8
 #EXTINF: -1 group-title="BASNET_BD", BTV_WORlD_HD
 http://tv.basnetbd.com:8080/roarzone/84/tracks-v1a1/mono.m3u8
@@ -233,73 +291,3 @@ http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="BASNET_BD", SONY_SIX_HD
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NEXUS_HD
-http://172.21.22.2:8082/Nexus_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EKHON_HD
-http://172.21.22.2:8082/Ekhon-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,GLOBAL_HD
-http://172.21.22.2:8082/Global_Tv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="JAGO BD IPTV", JAGO_BTV WORLD [BD]
-http://172.21.22.2:8082/Btv-World/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="JAGO BD IPTV", JAGO_BTV
-http://172.21.22.2:8082/Btv-Hd/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="JAGO BD IPTV", JAGO_ATN BANGLA [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="JAGO BD IPTV", JAGO_CHANNEL I HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="JAGO BD IPTV", JAGO_RTV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="JAGO BD IPTV", JAGO_BOISHAKHI TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="JAGO BD IPTV", JAGO_BANGLA VISION [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="JAGO BD IPTV", JAGO_MY TV HD [BD]
-http://172.21.22.2:8082/My_Tv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="JAGO BD IPTV", JAGO_CHANNEL 9 HD [BD]
-http://172.21.22.2:8082/Channel_9_HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="JAGO BD IPTV", JAGO_ASIAN TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="JAGO BD IPTV", JAGO_SA TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="JAGO BD IPTV", JAGO_BANGLA TV HD [BD]
-http://172.21.22.2:8082/Bangla_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="JAGO BD IPTV", JAGO_ATN NEWS [BD]
-http://172.21.22.2:8082/ATN_News_SD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="JAGO BD IPTV", JAGO_INDEPENDENT TV [BD]
-http://172.21.22.2:8082/Independent_TV_SD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="JAGO BD IPTV", JAGO_SOMOY TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="JAGO BD IPTV", JAGO_CHANNEL 24 [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="JAGO BD IPTV", JAGO_JAMUNA TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="JAGO BD IPTV", JAGO_NEWS 24 HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="JAGO BD IPTV", JAGO_DBC NEWS HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="JAGO BD IPTV", JAGO_BIJOY TV HD [BD]
-http://172.21.22.2:8082/Bijoy_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="JAGO BD IPTV", JAGO_ANANDA TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV", JAGO_CHANNEL S [UK] [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="JAGO BD IPTV", JAGO_Movie Bangla TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="JAGO BD IPTV", JAGO_Bangla 21 IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="JAGO BD IPTV", JAGO_Nan IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="JAGO BD IPTV", JAGO_Varendra TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="JAGO BD IPTV", JAGO_PAN VISION IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="JAGO BD IPTV", JAGO_NRB IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="JAGO BD IPTV", JAGO_ATN Islam [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JAGO BD IPTV", JAGO_GAAN BANGLA HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="JAGO BD IPTV", JAGO_ATN Music [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1,SUNBANGLA_HD
-http://172.21.22.2:8082/sunbangla/tracks-v1a1/mono.m3u8
