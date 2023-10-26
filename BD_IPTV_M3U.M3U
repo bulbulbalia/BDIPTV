@@ -51,6 +51,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://172.21.22.2:8082/Gaan-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="JAGO BD IPTV", JAGO_ATN Music [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1,GTV_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV_SPORTS_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="JAGO BD IPTV", STAR_JALSHA_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9XM_HD
@@ -78,9 +82,12 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="HINDI_CHANNEL_HD", MOVIES_NOW_HD
 #EXTINF:-1,&_PICTURE_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-http://172.21.22.2:8082/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF:-1,&FLIX_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BOLLYWOOD_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_CINEPLEX_HD
