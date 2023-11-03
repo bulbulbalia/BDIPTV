@@ -19,8 +19,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIAN_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BANGLA_TV_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKUSHEY_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SANGEET_BANGLA_HD
