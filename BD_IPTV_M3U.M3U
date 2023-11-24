@@ -339,6 +339,8 @@ http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="BASNET_BD", B4U_MUSIC_HD
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PLAYBOY_TV_HD
+https://b-hls-04.doppiocdn.com/hls/134002347/134002347.m3u8
 #EXTINF: -1 group-title="BASNET_BD", SANGEET_BANGLA_HD
 http://tv.basnetbd.com:8080/roarzone/76/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="BASNET_BD", BANGLA_TALKIES_HD
